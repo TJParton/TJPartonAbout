@@ -25,3 +25,7 @@ Some of my favorite songs include:
 1. Pursuit Of Happiness - Kid Cudi
 1. Kids Turned Out Fine - A$AP Rocky
 
+
+# My Spotify
+[Playlist](https://open.spotify.com/playlist/4HxGx2ard66Ry4cTP9jQ8V)
+
