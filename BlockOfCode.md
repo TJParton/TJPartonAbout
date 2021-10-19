@@ -59,3 +59,11 @@ The point of writing this code was to provide experience with writing an interac
 At the time when I wrote this I was very proud of myself for being able to do it and I worked very hard to be able to complete the challenge!
 
 
+# Navigation
+
+*[TJPartonAbout](TJPartonAbout.md)
+*[Background](BACKGROUND.md)
+*[Things I do](THINGS-I-DO.md)
+*[Favorite Music](FAVORITE-MUSIC.md)
+*[Favorite Show](FavoriteShows.md)
+
