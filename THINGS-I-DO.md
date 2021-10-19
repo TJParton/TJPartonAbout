@@ -32,5 +32,11 @@ Minecraft
 ![MInecraft](https://m.media-amazon.com/images/M/MV5BNWJjMWFmMzUtZDVkNy00NDE0LTk3ZGMtMTljZWI4ZjUxODEzXkEyXkFqcGdeQXVyNjQ2NzY3MjM@._V1_.jpg)
 
 
-# Return to Main Page
-[TJPartonAbout](README.md)
+# Navigation
+
+*[TJPartonAbout](README.md)
+*[Background](BACKGROUND.md)
+*[Favorite Music](FAVORITE-MUSIC.md)
+*[Favorite Show](FavoriteShows.md)
+*[Block Of Code](BlockOfCode.md)
+
