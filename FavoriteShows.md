@@ -17,3 +17,11 @@ My Favorite Animes Include:
 5. Demon Slayer
 6. Hunter X Hunter
 7. Naruto
+
+
+# Anime
+
+Anime is a style of Japanese film and television animation, typically aimed at adults as well as children. I started watching anime about a year or two ago and ive been obsessed ever since. It is truly amazing and there are shows for almost anyone to get into. With very in depth plots and character development I believe that anime is truly unmatched.
+
+# Images from My favorite Animes:
+
