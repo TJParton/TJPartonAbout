@@ -25,6 +25,12 @@ Some of my favorite songs include:
 1. Pursuit Of Happiness - Kid Cudi
 1. Kids Turned Out Fine - A$AP Rocky
 
+# My View on Music
+I feel as though music is a very important of most peoples lives. It brings people together and can even help improve someones mood, also, it is a good way to pass time and let loose.
+
+link to positive effects of music:
+[Article](https://www.openminds.org.au/news/5-positive-effects-music-mental-health)
+
 
 # My Spotify Playlists
 [Rap Playlist](https://open.spotify.com/playlist/4HxGx2ard66Ry4cTP9jQ8V)
