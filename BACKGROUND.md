@@ -24,4 +24,4 @@ As of now I am attending my first year at **The University Of Missouri**(Mizzou)
 
 ## Return to Original ReadME
 
-*[TJPartonAbout](./TJPartonAbout.md)
+*[TJPartonAbout](TJPartonAbout.md)
