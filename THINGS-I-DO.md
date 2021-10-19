@@ -9,7 +9,7 @@ In my free time I enjoy:
 
 # Games
 
-My favorite games are Rust, 7 Days to Die, and Minecraft. All 3 of the games are survival sandbox games and I find them all extremely fun and entertaining. Rust is a fast paced game where the objective is to loot and obtain weapons in order to raid your enemies and steal their loot from their base. 7 Days to Die is a zombie survival game where on every seventh day there is a horde of zombies to fight off in order to not die, and to protect your base. Minecraft is easily one of the most creative games ever made and ive been playing it for about 10 years. There is no definitive objective for Minecraft, but it is one of the best outlets for creativity, you create what you want! Overall, all of these games have had a hugw impact on making my life enjoyable.
+My favorite games are Rust, 7 Days to Die, and Minecraft. All 3 of the games are survival sandbox games and I find them all extremely fun and entertaining. Rust is a fast paced game where the objective is to loot and obtain weapons in order to raid your enemies and steal their loot from their base. 7 Days to Die is a zombie survival game where on every seventh day there is a horde of zombies to fight off in order to not die, and to protect your base. Minecraft is easily one of the most creative games ever made and i've been playing it for about 10 years. There is no definitive objective for Minecraft, but it is one of the best outlets for creativity, you create what you want! Overall, all of these games have had a hugw impact on making my life enjoyable.
 
 
 
