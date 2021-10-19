@@ -25,5 +25,5 @@ Anime is a style of Japanese film and television animation, typically aimed at a
 
 # Images from My favorite Animes:
 Tokyo Ghoul
-[Tokyo Ghoul](https://animehunch.com/wp-content/uploads/2020/10/Kaneki-Aogiri-Tree-768x432.jpg)
+![Tokyo Ghoul](https://animehunch.com/wp-content/uploads/2020/10/Kaneki-Aogiri-Tree-768x432.jpg)
 
