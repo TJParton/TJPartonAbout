@@ -24,6 +24,7 @@ My Favorite Animes Include:
 Anime is a style of Japanese film and television animation, typically aimed at adults as well as children. I started watching anime about a year or two ago and ive been obsessed ever since. It is truly amazing and there are shows for almost anyone to get into. With very in depth plots and character development I believe that anime is truly unmatched.
 
 # Images from My favorite Animes:
-Tokyo Ghoul
+
 ![Tokyo Ghoul](https://animehunch.com/wp-content/uploads/2020/10/Kaneki-Aogiri-Tree-768x432.jpg)
+![AOT](https://cdn.mos.cms.futurecdn.net/mjJgzfRvgyWSMkrZykS4u6.jpg)
 
