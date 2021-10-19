@@ -27,4 +27,5 @@ Anime is a style of Japanese film and television animation, typically aimed at a
 
 ![Tokyo Ghoul](https://animehunch.com/wp-content/uploads/2020/10/Kaneki-Aogiri-Tree-768x432.jpg)
 ![AOT](https://cdn.mos.cms.futurecdn.net/mjJgzfRvgyWSMkrZykS4u6.jpg)
+![Demon Slayer](https://assets3.thrillist.com/v1/image/2949055/1200x630/flatten;crop_down;jpeg_quality=70)
 
