@@ -20,7 +20,7 @@ As a baby I was always happy and smiling and was **very chubby**. Which is surpr
 
 As of now I am attending my first year at **The University Of Missouri**(Mizzou). At school I am pursuing a career in Cyber Security and am enjoying my time here thankful for the opportunities I have been given.
 
-![Mizzou Logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fbloximages.newyork1.vip.townnews.com%2Fstltoday.com%2Fcontent%2Ftncms%2Fassets%2Fv3%2Feditorial%2F9%2Fac%2F9ac04d8d-d971-5605-b8d7-98b5ddfdd7e0%2F5d683be40465b.image.jpg&imgrefurl=https%3A%2F%2Fwww.stltoday.com%2Fsports%2Fcollege%2Fmizzou%2Fdid-you-know-mus-logo-contains-a-mule%2Farticle_ca1b794e-50f8-5419-8221-2d29f227df57.html&tbnid=PCWEotoCeQQagM&vet=10CA8QxiAoAWoXChMI8ISK__3W8wIVAAAAAB0AAAAAEBA..i&docid=CHRuFHNk1mbCYM&w=900&h=500&itg=1&q=mizzou%20http%20image&client=safari&ved=0CA8QxiAoAWoXChMI8ISK__3W8wIVAAAAAB0AAAAAEBA)
+![Mizzou Logo](https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/ac/9ac04d8d-d971-5605-b8d7-98b5ddfdd7e0/5d683be40465b.image.jpg)
 
 ## Return to Original ReadME
 
