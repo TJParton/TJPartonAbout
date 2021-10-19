@@ -5,6 +5,8 @@ I am doing this for my **midterm project**, so we will see how this goes.
 
 These links below are to be used to *learn more about me*!
 
+# Navigation
+
 *[Background](BACKGROUND.md)
 *[Things I do](THINGS-I-DO.md)
 *[Favorite Music](FAVORITE-MUSIC.md)
