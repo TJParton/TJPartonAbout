@@ -61,7 +61,7 @@ At the time when I wrote this I was very proud of myself for being able to do it
 
 # Navigation
 
-*[TJPartonAbout](TJPartonAbout.md)
+*[TJPartonAbout](README.md)
 *[Background](BACKGROUND.md)
 *[Things I do](THINGS-I-DO.md)
 *[Favorite Music](FAVORITE-MUSIC.md)
