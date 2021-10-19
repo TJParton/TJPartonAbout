@@ -22,6 +22,13 @@ As of now I am attending my first year at **The University Of Missouri**(Mizzou)
 
 ![Mizzou Logo](https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/ac/9ac04d8d-d971-5605-b8d7-98b5ddfdd7e0/5d683be40465b.image.jpg)
 
-## Return to Original ReadME
+# Navigation
 
 *[TJPartonAbout](README.md)
+*[Things I do](THINGS-I-DO.md)
+*[Favorite Music](FAVORITE-MUSIC.md)
+*[Favorite Show](FavoriteShows.md)
+*[Block Of Code](BlockOfCode.md)
+
+
+
