@@ -4,6 +4,7 @@
 In my free time I enjoy:
 1. Watching Anime
 1. Playing Video Games
+1. Listening to Music
 1. Spending time with friends and family
 
 
